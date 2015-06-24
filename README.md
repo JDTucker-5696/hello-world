@@ -2,5 +2,5 @@
 A short description
 
 Raspberry Pi <br>
-Arduino
-miniSpartan+
+Arduino <br>
+miniSpartan+ <br>
